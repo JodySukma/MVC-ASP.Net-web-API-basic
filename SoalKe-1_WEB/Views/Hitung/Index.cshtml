@@ -1,0 +1,52 @@
+﻿@model SoalKe_1_WEB.Models.HitungModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<h4>HitungModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Index">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Angka1" class="control-label"></label>
+                <input asp-for="Angka1" class="form-control" />
+                <span asp-validation-for="Angka1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Angka2" class="control-label"></label>
+                <input asp-for="Angka2" class="form-control" />
+                <span asp-validation-for="Angka2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Operasi" class="control-label"></label>
+                <input asp-for="Operasi" class="form-control" />
+                <span asp-validation-for="Operasi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="result" class="control-label"></label>
+                <input asp-for="result" class="form-control" />
+                <span asp-validation-for="result" class="text-danger"></span>
+            </div>
+            <div class="btn-group">
+                <input type="submit" asp-for="Operasi" value="+" class="btn btn-primary" />
+                <input type="submit" asp-for="Operasi" value="-" class="btn btn-primary" />
+                <input type="submit" asp-for="Operasi" value="*" class="btn btn-primary" />
+                <input type="submit" asp-for="Operasi" value="/" class="btn btn-primary" />
+                <input type="submit" asp-for="Operasi" value="!" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

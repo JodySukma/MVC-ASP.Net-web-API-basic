@@ -1,0 +1,14 @@
+E:\Pelatihan\HariKe-9\Soal\SoalKe-1\SoalKe-1\bin\Debug\netcoreapp2.2\SoalKe-1.deps.json
+E:\Pelatihan\HariKe-9\Soal\SoalKe-1\SoalKe-1\bin\Debug\netcoreapp2.2\SoalKe-1.runtimeconfig.json
+E:\Pelatihan\HariKe-9\Soal\SoalKe-1\SoalKe-1\bin\Debug\netcoreapp2.2\SoalKe-1.runtimeconfig.dev.json
+E:\Pelatihan\HariKe-9\Soal\SoalKe-1\SoalKe-1\bin\Debug\netcoreapp2.2\SoalKe-1.dll
+E:\Pelatihan\HariKe-9\Soal\SoalKe-1\SoalKe-1\obj\Debug\netcoreapp2.2\SoalKe-1.csprojAssemblyReference.cache
+E:\Pelatihan\HariKe-9\Soal\SoalKe-1\SoalKe-1\obj\Debug\netcoreapp2.2\SoalKe-1.csproj.CoreCompileInputs.cache
+E:\Pelatihan\HariKe-9\Soal\SoalKe-1\SoalKe-1\obj\Debug\netcoreapp2.2\SoalKe-1.RazorAssemblyInfo.cache
+E:\Pelatihan\HariKe-9\Soal\SoalKe-1\SoalKe-1\obj\Debug\netcoreapp2.2\SoalKe-1.RazorAssemblyInfo.cs
+E:\Pelatihan\HariKe-9\Soal\SoalKe-1\SoalKe-1\obj\Debug\netcoreapp2.2\SoalKe-1.AssemblyInfoInputs.cache
+E:\Pelatihan\HariKe-9\Soal\SoalKe-1\SoalKe-1\obj\Debug\netcoreapp2.2\SoalKe-1.AssemblyInfo.cs
+E:\Pelatihan\HariKe-9\Soal\SoalKe-1\SoalKe-1\obj\Debug\netcoreapp2.2\SoalKe-1.RazorTargetAssemblyInfo.cache
+E:\Pelatihan\HariKe-9\Soal\SoalKe-1\SoalKe-1\bin\Debug\netcoreapp2.2\SoalKe-1.pdb
+E:\Pelatihan\HariKe-9\Soal\SoalKe-1\SoalKe-1\obj\Debug\netcoreapp2.2\SoalKe-1.dll
+E:\Pelatihan\HariKe-9\Soal\SoalKe-1\SoalKe-1\obj\Debug\netcoreapp2.2\SoalKe-1.pdb
